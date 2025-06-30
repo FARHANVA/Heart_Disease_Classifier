@@ -34,6 +34,3 @@ An example patient input was tested across all models:
 
 ```python
 sample_input = [[63, 1, 3, 145, 233, 1, 0, 150, 0, 2.3, 0, 0, 1]]
-
-
-
