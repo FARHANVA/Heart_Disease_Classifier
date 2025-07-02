@@ -24,7 +24,7 @@ Three classification models were trained and evaluated:
 | K-Nearest Neighbors  | 56.7%    | 0.52     |
 
 - ✅ Decision Tree gave the best performance.
-- 📉 KNN underperformed, possibly due to lack of feature scaling.
+- 📉 KNN underperformed, possibly due to the lack of feature scaling.
 
 ---
 
