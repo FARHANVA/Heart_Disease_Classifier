@@ -1,6 +1,6 @@
 # ❤️ Heart Disease Prediction using Machine Learning
 
-This project predicts the likelihood of heart disease based on medical features using machine learning classifiers. It compares Logistic Regression, Decision Tree, and K-Nearest Neighbors (KNN) to evaluate which model performs best for binary classification.
+This project predicts the likelihood of heart disease based on medical features using the machine learning classifiers. It compares Logistic Regression, Decision Tree, and K-Nearest Neighbors (KNN) to evaluate which model performs best for binary classification.
 
 ---
 
